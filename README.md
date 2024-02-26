@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 You can use the notebook and switch out the model there for your choice. Documents to be 'raged' on go into the data folder. 
 
-###Run in terminal
+#### Run in terminal
 ```
 python mlx_rag.py --model_name "mlx-community/Mistral-7B-v0.1-hf-4bit-mlx" --directory "data" --embed_model "local:BAAI/bge-base-en-v1.5" --query "Complete the sentence: In all criminal prosecutions, the accused shall enjoy"
 ```
