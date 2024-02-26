@@ -3,7 +3,7 @@ Run Retrival Augmented Generation using local mlx models and llama index
 #### Setting Up the Environment
 
 ```
-conda create -n rag_mlx python=3.11
+conda create -n rag_mlx python=3.9
 conda activate rag_mlx
 pip install -r requirements.txt
 ```
