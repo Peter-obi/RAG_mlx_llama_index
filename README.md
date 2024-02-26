@@ -1,5 +1,5 @@
 # RAG_llms_mlx_llama_index
-Run Retrival Augmented Generation using local mlx models and llama index
+Run Retrieval Augmented Generation using local mlx models and llama index
 #### Setting Up the Environment
 
 ```
