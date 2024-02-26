@@ -7,7 +7,7 @@ conda create -n rag_mlx python=3.9
 conda activate rag_mlx
 pip install -r requirements.txt
 ```
-You can use the notebook and switch out the model there for your choice. Documents to be 'raged' on go into the data folder. 
+You can use the notebook and switch out the models there for your choice. Documents to be 'raged' on go into the data folder. 
 
 #### Run in terminal
 ```
